@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String []args){
-    for (char letter= 'A'; letter <= 'z' ; letter++)
+    for (char letter= 'A'; letter <= 'Z' ; letter++)
     {
         System.out.println(letter + "");
         }
